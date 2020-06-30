@@ -52,7 +52,7 @@ export default class PostListItem extends Component {
                     type="button"
                     className="btn-trash btn-sm"
                     onClick={onDelete}>
-                    <i className="fa fa-trash-o"/>
+                    <i className="far fa-trash-alt" />
                 </button>
                 <i className="fa fa-heart"/>
             </div>
